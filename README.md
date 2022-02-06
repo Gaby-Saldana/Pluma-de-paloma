@@ -6,5 +6,4 @@ Hi, this is the excersise that is in the video "GitHub 101 Parte 1"
 Testing, testing.
 
 
-
-And I want to practice my english grammar too. So, if you look some mistakes, show me them. Pls. :) 
+I want to practice my english grammar too. So, if you look some mistakes, show me them. Pls. :) 
